@@ -27,6 +27,9 @@ Data Security: Firebase's robust data security features protect user information
 ## Demo
 
 <img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/3cf809d9-0261-4f90-8110-67e5a60b5c7a" width=20% height=20%>
+
+
+
 <img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/328de861-51e1-4d2a-a294-03f73cd462d3" width=20% height=20%>
 
 
@@ -35,6 +38,8 @@ Data Security: Firebase's robust data security features protect user information
 
 ### LoginPage
 <img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/2636870f-7011-43f0-90f9-a215e5fb0e44" width=20% height=20%>
+
+
 
 <img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/239083b7-e116-4c09-83b9-db358830f75d" width=100% height=100%>
 
