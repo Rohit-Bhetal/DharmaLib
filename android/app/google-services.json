@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806753864266",
+    "project_id": "dharma-lib",
+    "storage_bucket": "dharma-lib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806753864266:android:c4abd4ed7df6f3466fb4b3",
+        "android_client_info": {
+          "package_name": "com.example.dharmalib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806753864266-4i824t6j0ber66amp7lvapapu68eceop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-dLssObNX-SpAEpl_JbkZ4gEZ6J_CM-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806753864266-4i824t6j0ber66amp7lvapapu68eceop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
