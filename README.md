@@ -26,15 +26,9 @@ Data Security: Firebase's robust data security features protect user information
  Firebase's cloud-based infrastructure scales effortlessly to accommodate growing user bases and increasing data storage demands.
 ## Demo
 
-I
+I![gif1](https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/3cf809d9-0261-4f90-8110-67e5a60b5c7a)
 
-https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/c1e62011-29ad-4b6b-bf8a-76db2ce6fb45
-
-
-
-https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/2968bee5-8f49-48af-a505-859e6b22e9fc
-
-
+![gif2](https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/328de861-51e1-4d2a-a294-03f73cd462d3)
 
 
 ## Screenshots
