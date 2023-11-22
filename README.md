@@ -26,18 +26,18 @@ Data Security: Firebase's robust data security features protect user information
  Firebase's cloud-based infrastructure scales effortlessly to accommodate growing user bases and increasing data storage demands.
 ## Demo
 
-<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/3cf809d9-0261-4f90-8110-67e5a60b5c7a" width=20% height=20%>
+<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/3cf809d9-0261-4f90-8110-67e5a60b5c7a" width=30% height=30%>
 
 
 
-<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/328de861-51e1-4d2a-a294-03f73cd462d3" width=20% height=20%>
+<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/328de861-51e1-4d2a-a294-03f73cd462d3" width=30% height=30%>
 
 
 
 ## Screenshots
 
 ### LoginPage
-<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/2636870f-7011-43f0-90f9-a215e5fb0e44" width=20% height=20%>
+<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/2636870f-7011-43f0-90f9-a215e5fb0e44" width=30% height=30%>
 
 
 
@@ -48,18 +48,18 @@ Data Security: Firebase's robust data security features protect user information
 
 
 ### SignUpPage
-<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/0f80c5f5-8a94-4d58-83df-74a9ac2c5380" width=20% height=20%>
+<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/0f80c5f5-8a94-4d58-83df-74a9ac2c5380" width=30% height=30%>
 
 
 
 
 ### DashBoard
-<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/c328b2d5-37a5-4b99-9ec6-8c37c5a37699" width=20% height=20%>
+<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/c328b2d5-37a5-4b99-9ec6-8c37c5a37699" width=30% height=30%>
 
 
 
 ### SideBar
-<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/a1dee1ce-0f34-4989-8b9d-496a4625dc7c" width=20% height=20%>
+<img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/a1dee1ce-0f34-4989-8b9d-496a4625dc7c" width=30% height=30%>
 
 
 ## Run the Webapp :
