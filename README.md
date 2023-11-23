@@ -61,5 +61,13 @@ Data Security: Firebase's robust data security features protect user information
 ### SideBar
 <img src="https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/a1dee1ce-0f34-4989-8b9d-496a4625dc7c" width=30% height=30%>
 
+### Firebase Backend
+![FireBase](https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/9e08cf74-0a60-4c6f-b44d-bdf0da6485a4)
+
+### SignIn Method
+![SignInMethod](https://github.com/Rohit-Bhetal/DharmaLib/assets/96344296/960c6d6f-bdfb-472e-b6d5-52b9e948f32f)
+
+
+
 
 ## Run the Webapp :
